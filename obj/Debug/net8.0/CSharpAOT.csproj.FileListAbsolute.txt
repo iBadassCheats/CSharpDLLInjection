@@ -1,0 +1,4 @@
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Debug\net8.0\CSharpAOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Debug\net8.0\CSharpAOT.AssemblyInfoInputs.cache
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Debug\net8.0\CSharpAOT.AssemblyInfo.cs
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Debug\net8.0\CSharpAOT.csproj.CoreCompileInputs.cache

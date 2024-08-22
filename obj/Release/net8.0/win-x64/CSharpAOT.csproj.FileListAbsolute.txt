@@ -1,0 +1,11 @@
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\bin\Release\net8.0\win-x64\CSharpAOT.deps.json
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\bin\Release\net8.0\win-x64\CSharpAOT.dll
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\bin\Release\net8.0\win-x64\CSharpAOT.pdb
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\CSharpAOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\CSharpAOT.AssemblyInfoInputs.cache
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\CSharpAOT.AssemblyInfo.cs
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\CSharpAOT.csproj.CoreCompileInputs.cache
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\CSharpAOT.dll
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\refint\CSharpAOT.dll
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\CSharpAOT.pdb
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\obj\Release\net8.0\win-x64\ref\CSharpAOT.dll

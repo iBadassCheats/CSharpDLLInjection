@@ -1,0 +1,2 @@
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\bin\Release\net8.0\win-x64\publish\CSharpAOT.dll
+C:\Users\FürDieAFD1\source\repos\CSharpAOT\CSharpAOT\bin\Release\net8.0\win-x64\publish\CSharpAOT.pdb
